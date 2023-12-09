@@ -32,6 +32,6 @@ spec:
     spec:
       containers:
       - name: devopsapp
-        image: nagubujji/xy:19
+        image: nagubujji/dev:66
         ports:
         - containerPort: 80
